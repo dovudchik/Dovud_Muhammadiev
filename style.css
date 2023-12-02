@@ -1,0 +1,243 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+header{
+  width: 100%; 
+  height: 10vh;
+  background-color: #333;
+}
+main{
+   background-image: url(https://searchthisweb.com/wallpaper/reine_4000x2662_ruwae.jpg);
+   width: 100%;
+   height: 90vh;
+   background-position: center;
+}
+main h1{
+   text-align: center;
+   color: greenyellow;
+   font-size: 50px;
+
+}
+header nav a{
+   width: 30px;
+   height: 15px;
+   color: yellow;
+   font-size: 30px;
+   margin: 5px;
+   padding: 4px;
+   text-decoration: none;
+   border-radius: 5px;
+   margin-top: 5px;
+}
+header nav{
+   text-align: center;
+}
+header nav a:hover{
+   background-color: green;
+   width: 35px;
+}
+
+.animes{
+   background-image: url(https://uprostim.com/wp-content/uploads/2021/04/image116-1.jpg);
+   height: 100vh;
+}
+.tokyoghule{
+   width: 400px;
+   height: 500px;
+   border: 3px solid pink;
+   background-image: url(https://static.zerochan.net/Okojo.%2528Pixiv167580%2529.full.2068449.jpg);
+   border-radius: 4px;
+   display: inline-block;
+   margin: 5px;
+   padding: 5px;
+}
+img{
+   width: 100%;
+}
+.tokyoghule h1{
+   text-align: center;  
+   color: crimson;
+   font-size: 30px;
+}
+.tokyoghule a{
+   background-color: rgb(75, 255, 30);
+   widows: 60px;
+   height: 45px;
+   border: 2px solid rgb(75, 255, 30);
+   border-radius: 5px;
+   transition: 0.5s ease;
+   text-decoration: none;
+   color: yellow;
+}
+.tokyoghule a:hover{
+   background-color: yellowgreen;
+   width: 70px;
+   height: 50px;
+   border: 2px solid yellowgreen;
+   color: green;
+}
+
+.tokyorevengers{
+   width: 400px;
+   height: 500px;
+   border: 3px solid pink;
+   background-image: url(https://static.zerochan.net/Okojo.%2528Pixiv167580%2529.full.2068449.jpg);
+   border-radius: 4px;
+   display: inline-block;
+   margin: 5px;
+   padding: 5px;
+}
+img{
+   width: 100%;
+}
+.tokyorevengers h1{
+   text-align: center;
+   color: crimson;
+   font-size: 30px;
+}
+.tokyorevengers a{
+   background-color: rgb(75, 255, 30);
+   widows: 60px;
+   height: 45px;
+   border: 2px solid rgb(75, 255, 30);
+   border-radius: 5px;
+   transition: 0.5s ease;
+   text-decoration: none;
+   color: yellow;
+}
+.tokyorevengers a:hover{
+   background-color: yellowgreen;
+   width: 70px;
+   height: 50px;
+   border: 2px solid yellowgreen;
+   color: green;
+}
+
+.attackontitan{
+   width: 400px;
+   height: 500px;
+   border: 3px solid pink;
+   background-image: url(https://static.zerochan.net/Okojo.%2528Pixiv167580%2529.full.2068449.jpg);
+   border-radius: 4px;
+   display: inline-block;
+   margin: 5px;
+   padding: 5px;
+}
+img{
+   width: 100%;
+}
+.attackontitan h1{
+   text-align: center;
+   color: crimson;
+   font-size: 30px;
+}
+.attackontitan a{
+   background-color: rgb(75, 255, 30);
+   widows: 60px;
+   height: 45px;
+   border: 2px solid rgb(75, 255, 30);
+   border-radius: 5px;
+   transition: 0.5s ease;
+   text-decoration: none;
+   color: yellow;
+}
+.attackontitan a:hover{
+   background-color: yellowgreen;
+   width: 70px;
+   height: 50px;
+   border: 2px solid yellowgreen;
+   color: green;
+}
+.myhoby{
+  background-color: yellowgreen;
+}
+.myhoby h1{
+   text-align: center;
+   color: rgb(255, 255, 255);
+   font-size: 30px;
+}
+.myhoby img{
+   width: 350px;
+   height: 500px;
+   box-shadow: 2px 4px 4px gray;
+   display: inline-block;
+   margin: 50px;
+}
+.it{
+   width: 300px;
+   height: 500px;
+   color: white;
+   font-size: 14px;
+   display: inline-block;
+   text-align: end;
+   margin: 50px;
+}
+.myhoby h2{
+   text-align: center;
+   color: rgb(251, 255, 0);
+   font-size: 30px;
+}
+.withme{
+   background-color: palevioletred;
+}
+.withme h2{
+   text-align: center;
+   color: rgb(251, 255, 0);
+   font-size: 30px;
+}
+.withme img{
+   width: 350px;
+   height: 500px;
+   box-shadow: 2px 4px 4px gray;
+   display: inline-block;
+   margin: 50px; 
+}
+.withme h1{
+   text-align: center;
+   color: rgb(255, 255, 255);
+   font-size: 30px;
+}
+.JAPANESE{
+   width: 300px;
+   height: 500px;
+   color: white;
+   font-size: 14px;
+   display: inline-block;
+   text-align: end;
+   margin: 50px;   
+}
+footer{
+   width: 100%;
+   height: 15vh;
+   background-color: green;
+}
+
+footer a{
+   width: 30px;
+   height: 15px;
+   color: rgb(123, 255, 0);
+   background-color: green;
+   font-size: 30px;
+   margin: 5px;
+   padding: 4px;
+   text-decoration: none;
+   border-radius: 5px;
+   margin-top: 5px;   
+}
+footer a:hover{
+   background-color: rgb(100, 128, 0);
+   color: green;
+   width: 35px;
+}
+.me{
+   background-color: #333;
+   width: 100%;
+   height: 85vh;
+}
+
+ul li{
+   text-align: center;
+   text-shadow: 5px 6px 4px rgb(255, 255, 255);
+   font-size: 50px;
+}
